@@ -1,8 +1,8 @@
-/* Generated Font CDN CSS - 2026-03-27 02:49:51 */
+/* Generated Font CDN CSS - 2026-03-27 02:57:20 */
 
 @font-face {
     font-family: '1984대화나눔 본문체 Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/1984대화나눔_본문체_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/1984대화나눔_본문체_Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: '1984대화나눔 본문체 Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/1984대화나눔_본문체_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/1984대화나눔_본문체_Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: '1984대화나눔 본문체 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/1984대화나눔_본문체_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/1984대화나눔_본문체_Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -26,7 +26,7 @@
 
 @font-face {
     font-family: '1984대화나눔 소곤소곤';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/1984대화나눔_소곤소곤.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/1984대화나눔_소곤소곤.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -34,7 +34,7 @@
 
 @font-face {
     font-family: '1984대화나눔 속닥속닥';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/1984대화나눔_속닥속닥.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/1984대화나눔_속닥속닥.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -42,7 +42,7 @@
 
 @font-face {
     font-family: '1984대화나눔 웅성웅성';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/1984대화나눔_웅성웅성.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/1984대화나눔_웅성웅성.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -50,7 +50,7 @@
 
 @font-face {
     font-family: '60sSTRIPE';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/60sSTRIPE.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/60sSTRIPE.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -58,7 +58,7 @@
 
 @font-face {
     font-family: '770Balsa Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/770Balsa-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/770Balsa-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -66,7 +66,7 @@
 
 @font-face {
     font-family: 'AssacomFreeGothic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AssacomFreeGothic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AssacomFreeGothic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -74,7 +74,7 @@
 
 @font-face {
     font-family: 'AstaSans Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AstaSans-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AstaSans-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -82,7 +82,7 @@
 
 @font-face {
     font-family: 'AstaSans ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AstaSans-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AstaSans-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -90,7 +90,7 @@
 
 @font-face {
     font-family: 'AstaSans Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AstaSans-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AstaSans-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -98,7 +98,7 @@
 
 @font-face {
     font-family: 'AstaSans Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AstaSans-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AstaSans-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -106,7 +106,7 @@
 
 @font-face {
     font-family: 'AstaSans Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AstaSans-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AstaSans-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -114,7 +114,7 @@
 
 @font-face {
     font-family: 'AstaSans SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/AstaSans-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/AstaSans-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -122,7 +122,7 @@
 
 @font-face {
     font-family: 'BMDOHYEON otf';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMDOHYEON_otf.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMDOHYEON_otf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -130,7 +130,7 @@
 
 @font-face {
     font-family: 'BMEULJIRO';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMEULJIRO.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMEULJIRO.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -138,7 +138,7 @@
 
 @font-face {
     font-family: 'BMHANNAAir otf';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMHANNAAir_otf.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMHANNAAir_otf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -146,7 +146,7 @@
 
 @font-face {
     font-family: 'BMHANNAProOTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMHANNAProOTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMHANNAProOTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -154,7 +154,7 @@
 
 @font-face {
     font-family: 'BMHANNA 11yrs otf';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMHANNA_11yrs_otf.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMHANNA_11yrs_otf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -162,7 +162,7 @@
 
 @font-face {
     font-family: 'BMJUA otf';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMJUA_otf.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMJUA_otf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -170,7 +170,7 @@
 
 @font-face {
     font-family: 'BMKIRANGHAERANG OTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMKIRANGHAERANG-OTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMKIRANGHAERANG-OTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -178,7 +178,7 @@
 
 @font-face {
     font-family: 'BMKkubulim';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMKkubulim.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMKkubulim.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -186,7 +186,7 @@
 
 @font-face {
     font-family: 'BMYEONSUNG otf';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BMYEONSUNG_otf.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BMYEONSUNG_otf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -194,7 +194,7 @@
 
 @font-face {
     font-family: 'BOKEH';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BOKEH.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BOKEH.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -202,7 +202,7 @@
 
 @font-face {
     font-family: 'BagelFatOne Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/BagelFatOne-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/BagelFatOne-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -210,7 +210,7 @@
 
 @font-face {
     font-family: 'CHOGOONCHICKENSCRATCHV3 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/CHOGOONCHICKENSCRATCHV3-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/CHOGOONCHICKENSCRATCHV3-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -218,7 +218,7 @@
 
 @font-face {
     font-family: 'CHOGOONCHICKENSCRATCHV5 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/CHOGOONCHICKENSCRATCHV5-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/CHOGOONCHICKENSCRATCHV5-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -226,7 +226,7 @@
 
 @font-face {
     font-family: 'CHOGOONCHICKENSCRATCHV6 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/CHOGOONCHICKENSCRATCHV6-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/CHOGOONCHICKENSCRATCHV6-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -234,7 +234,7 @@
 
 @font-face {
     font-family: 'CHOGOONCHICKENSCRATCHV7 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/CHOGOONCHICKENSCRATCHV7-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/CHOGOONCHICKENSCRATCHV7-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -242,7 +242,7 @@
 
 @font-face {
     font-family: 'CHOGOONChickenScratchV2 Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/CHOGOONChickenScratchV2-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/CHOGOONChickenScratchV2-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -250,7 +250,7 @@
 
 @font-face {
     font-family: 'CROOKED';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/CROOKED.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/CROOKED.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -258,7 +258,7 @@
 
 @font-face {
     font-family: 'Cafe24Classictype v1.1';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Classictype-v1.1.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Classictype-v1.1.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -266,7 +266,7 @@
 
 @font-face {
     font-family: 'Cafe24Dangdanghae v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Dangdanghae-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Dangdanghae-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -274,7 +274,7 @@
 
 @font-face {
     font-family: 'Cafe24Danjunghae v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Danjunghae-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Danjunghae-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -282,7 +282,7 @@
 
 @font-face {
     font-family: 'Cafe24Dongdong v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Dongdong-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Dongdong-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -290,7 +290,7 @@
 
 @font-face {
     font-family: 'Cafe24DongdongLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24DongdongLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24DongdongLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -298,7 +298,7 @@
 
 @font-face {
     font-family: 'Cafe24Moyamoya Face v1.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Moyamoya-Face-v1.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Moyamoya-Face-v1.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -306,7 +306,7 @@
 
 @font-face {
     font-family: 'Cafe24Moyamoya Regular v1.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Moyamoya-Regular-v1.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Moyamoya-Regular-v1.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -314,7 +314,7 @@
 
 @font-face {
     font-family: 'Cafe24Ohsquare v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Ohsquare-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Ohsquare-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -322,7 +322,7 @@
 
 @font-face {
     font-family: 'Cafe24OhsquareAir v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24OhsquareAir-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24OhsquareAir-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -330,7 +330,7 @@
 
 @font-face {
     font-family: 'Cafe24Oneprettynight v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Oneprettynight-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Oneprettynight-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -338,7 +338,7 @@
 
 @font-face {
     font-family: 'Cafe24PROSlim Air';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24PROSlim-Air.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24PROSlim-Air.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -346,7 +346,7 @@
 
 @font-face {
     font-family: 'Cafe24PROSlim Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24PROSlim-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24PROSlim-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -354,7 +354,7 @@
 
 @font-face {
     font-family: 'Cafe24PROSlim Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24PROSlim-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24PROSlim-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -362,7 +362,7 @@
 
 @font-face {
     font-family: 'Cafe24PROUP';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24PROUP.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24PROUP.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -370,7 +370,7 @@
 
 @font-face {
     font-family: 'Cafe24Shiningstar v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Shiningstar-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Shiningstar-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -378,7 +378,7 @@
 
 @font-face {
     font-family: 'Cafe24Simplehae v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Simplehae-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Simplehae-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -386,7 +386,7 @@
 
 @font-face {
     font-family: 'Cafe24Ssukssuk v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Ssukssuk-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Ssukssuk-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -394,7 +394,7 @@
 
 @font-face {
     font-family: 'Cafe24SsukssukLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24SsukssukLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24SsukssukLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -402,7 +402,7 @@
 
 @font-face {
     font-family: 'Cafe24Ssurround v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Ssurround-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Ssurround-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -410,7 +410,7 @@
 
 @font-face {
     font-family: 'Cafe24SsurroundAir v1.1';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24SsurroundAir-v1.1.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24SsurroundAir-v1.1.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -418,7 +418,7 @@
 
 @font-face {
     font-family: 'Cafe24Supermagic Bold v1.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Supermagic-Bold-v1.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Supermagic-Bold-v1.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -426,7 +426,7 @@
 
 @font-face {
     font-family: 'Cafe24Supermagic Regular v1.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Supermagic-Regular-v1.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Supermagic-Regular-v1.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -434,7 +434,7 @@
 
 @font-face {
     font-family: 'Cafe24Syongsyong v2.0';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Cafe24Syongsyong-v2.0.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Cafe24Syongsyong-v2.0.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -442,7 +442,7 @@
 
 @font-face {
     font-family: 'D2Coding Ver1.3.2 20180524';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/D2Coding-Ver1.3.2-20180524.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/D2Coding-Ver1.3.2-20180524.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -450,7 +450,7 @@
 
 @font-face {
     font-family: 'D2CodingBold Ver1.3.2 20180524';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/D2CodingBold-Ver1.3.2-20180524.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/D2CodingBold-Ver1.3.2-20180524.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -458,7 +458,7 @@
 
 @font-face {
     font-family: 'Delta Universe';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Delta Universe.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Delta Universe.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -466,7 +466,7 @@
 
 @font-face {
     font-family: 'Diphylleia Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Diphylleia-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Diphylleia-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -474,7 +474,7 @@
 
 @font-face {
     font-family: 'Dongle Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Dongle-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Dongle-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -482,7 +482,7 @@
 
 @font-face {
     font-family: 'Dongle Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Dongle-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Dongle-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -490,7 +490,7 @@
 
 @font-face {
     font-family: 'Dongle Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Dongle-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Dongle-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -498,7 +498,7 @@
 
 @font-face {
     font-family: 'DungGeunMo';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/DungGeunMo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/DungGeunMo.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -506,7 +506,7 @@
 
 @font-face {
     font-family: 'EliceDXNeolliOTF Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDXNeolliOTF-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDXNeolliOTF-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -514,7 +514,7 @@
 
 @font-face {
     font-family: 'EliceDXNeolliOTF Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDXNeolliOTF-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDXNeolliOTF-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -522,7 +522,7 @@
 
 @font-face {
     font-family: 'EliceDXNeolliOTF Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDXNeolliOTF-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDXNeolliOTF-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -530,7 +530,7 @@
 
 @font-face {
     font-family: 'EliceDigitalBaeumOTF Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDigitalBaeumOTF_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDigitalBaeumOTF_Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -538,7 +538,7 @@
 
 @font-face {
     font-family: 'EliceDigitalBaeumOTF Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDigitalBaeumOTF_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDigitalBaeumOTF_Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -546,7 +546,7 @@
 
 @font-face {
     font-family: 'EliceDigitalCodingOTF Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDigitalCodingOTF_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDigitalCodingOTF_Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -554,7 +554,7 @@
 
 @font-face {
     font-family: 'EliceDigitalCodingOTF Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/EliceDigitalCodingOTF_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/EliceDigitalCodingOTF_Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -562,7 +562,7 @@
 
 @font-face {
     font-family: 'FOUREYES';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/FOUREYES.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/FOUREYES.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -570,7 +570,7 @@
 
 @font-face {
     font-family: 'Freesentation 1Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-1Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-1Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -578,7 +578,7 @@
 
 @font-face {
     font-family: 'Freesentation 2ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-2ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-2ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -586,7 +586,7 @@
 
 @font-face {
     font-family: 'Freesentation 3Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-3Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-3Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -594,7 +594,7 @@
 
 @font-face {
     font-family: 'Freesentation 4Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-4Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-4Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -602,7 +602,7 @@
 
 @font-face {
     font-family: 'Freesentation 5Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-5Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-5Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -610,7 +610,7 @@
 
 @font-face {
     font-family: 'Freesentation 6SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-6SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-6SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -618,7 +618,7 @@
 
 @font-face {
     font-family: 'Freesentation 7Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-7Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-7Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -626,7 +626,7 @@
 
 @font-face {
     font-family: 'Freesentation 8ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-8ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-8ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -634,7 +634,7 @@
 
 @font-face {
     font-family: 'Freesentation 9Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Freesentation-9Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Freesentation-9Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -642,7 +642,7 @@
 
 @font-face {
     font-family: 'GasoekOne Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/GasoekOne-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/GasoekOne-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -650,7 +650,7 @@
 
 @font-face {
     font-family: 'Ghanachocolate';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Ghanachocolate.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Ghanachocolate.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -658,7 +658,7 @@
 
 @font-face {
     font-family: 'Goseogu Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Goseogu-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Goseogu-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -666,7 +666,7 @@
 
 @font-face {
     font-family: 'GrandifloraOne Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/GrandifloraOne-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/GrandifloraOne-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -674,7 +674,7 @@
 
 @font-face {
     font-family: 'Hahmlet Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -682,7 +682,7 @@
 
 @font-face {
     font-family: 'Hahmlet Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -690,7 +690,7 @@
 
 @font-face {
     font-family: 'Hahmlet ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -698,7 +698,7 @@
 
 @font-face {
     font-family: 'Hahmlet ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -706,7 +706,7 @@
 
 @font-face {
     font-family: 'Hahmlet Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -714,7 +714,7 @@
 
 @font-face {
     font-family: 'Hahmlet Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -722,7 +722,7 @@
 
 @font-face {
     font-family: 'Hahmlet Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -730,7 +730,7 @@
 
 @font-face {
     font-family: 'Hahmlet SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -738,7 +738,7 @@
 
 @font-face {
     font-family: 'Hahmlet Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hahmlet-Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hahmlet-Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -746,7 +746,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Allimjang OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Allimjang OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Allimjang OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -754,7 +754,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Allimjang OTF R';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Allimjang OTF R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Allimjang OTF R.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -762,7 +762,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Badasseugi OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Badasseugi OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Badasseugi OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -770,7 +770,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Badasseugi OTF L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Badasseugi OTF L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Badasseugi OTF L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -778,7 +778,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Byeolbichhaneul OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Byeolbichhaneul OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Byeolbichhaneul OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -786,7 +786,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Byeolbichhaneul OTF L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Byeolbichhaneul OTF L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Byeolbichhaneul OTF L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -794,7 +794,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Byeoljari OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Byeoljari OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Byeoljari OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -802,7 +802,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Byeoljari OTF L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Byeoljari OTF L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Byeoljari OTF L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -810,7 +810,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Chilpanjiugae OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Chilpanjiugae OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Chilpanjiugae OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -818,7 +818,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Chilpanjiugae OTF L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Chilpanjiugae OTF L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Chilpanjiugae OTF L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -826,7 +826,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Chulseokbu OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Chulseokbu OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Chulseokbu OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -834,7 +834,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Chulseokbu OTF L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Chulseokbu OTF L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Chulseokbu OTF L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -842,7 +842,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Dunggeunmiso OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Dunggeunmiso OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Dunggeunmiso OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -850,7 +850,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Dunggeunmiso OTF R';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Dunggeunmiso OTF R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Dunggeunmiso OTF R.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -858,7 +858,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Geurimilgi OTF R';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Geurimilgi OTF R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Geurimilgi OTF R.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -866,7 +866,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Nadeuri OTF B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Nadeuri OTF B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Nadeuri OTF B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -874,7 +874,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Nadeuri OTF L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Nadeuri OTF L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Nadeuri OTF L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -882,7 +882,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Puzzle OTF Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Puzzle OTF Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Puzzle OTF Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -890,7 +890,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim Puzzle OTF Outline';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim Puzzle OTF Outline.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim Puzzle OTF Outline.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -898,7 +898,7 @@
 
 @font-face {
     font-family: 'HakgyoansimBareonbatangB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimBareonbatangB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimBareonbatangB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -906,7 +906,7 @@
 
 @font-face {
     font-family: 'HakgyoansimBareonbatangR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimBareonbatangR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimBareonbatangR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -914,7 +914,7 @@
 
 @font-face {
     font-family: 'HakgyoansimBareondotumB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimBareondotumB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimBareondotumB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -922,7 +922,7 @@
 
 @font-face {
     font-family: 'HakgyoansimBareondotumR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimBareondotumR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimBareondotumR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -930,7 +930,7 @@
 
 @font-face {
     font-family: 'HakgyoansimBombanghakR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimBombanghakR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimBombanghakR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -938,7 +938,7 @@
 
 @font-face {
     font-family: 'HakgyoansimBunpilR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimBunpilR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimBunpilR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -946,7 +946,7 @@
 
 @font-face {
     font-family: 'HakgyoansimButpenB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimButpenB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimButpenB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -954,7 +954,7 @@
 
 @font-face {
     font-family: 'HakgyoansimButpenL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimButpenL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimButpenL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -962,7 +962,7 @@
 
 @font-face {
     font-family: 'HakgyoansimButpenM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimButpenM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimButpenM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -970,7 +970,7 @@
 
 @font-face {
     font-family: 'HakgyoansimDoldamB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimDoldamB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimDoldamB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -978,7 +978,7 @@
 
 @font-face {
     font-family: 'HakgyoansimDoldamL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimDoldamL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimDoldamL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -986,7 +986,7 @@
 
 @font-face {
     font-family: 'HakgyoansimDoldamM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimDoldamM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimDoldamM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -994,7 +994,7 @@
 
 @font-face {
     font-family: 'HakgyoansimDotbogiOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimDotbogiOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimDotbogiOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1002,7 +1002,7 @@
 
 @font-face {
     font-family: 'HakgyoansimEunhasuOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimEunhasuOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimEunhasuOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1010,7 +1010,7 @@
 
 @font-face {
     font-family: 'HakgyoansimGaeulsopungB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimGaeulsopungB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimGaeulsopungB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1018,7 +1018,7 @@
 
 @font-face {
     font-family: 'HakgyoansimGaeulsopungL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimGaeulsopungL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimGaeulsopungL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1026,7 +1026,7 @@
 
 @font-face {
     font-family: 'HakgyoansimGgooreogiR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimGgooreogiR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimGgooreogiR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1034,7 +1034,7 @@
 
 @font-face {
     font-family: 'HakgyoansimGodeunjemokB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimGodeunjemokB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimGodeunjemokB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1042,7 +1042,7 @@
 
 @font-face {
     font-family: 'HakgyoansimGodeunjemokM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimGodeunjemokM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimGodeunjemokM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1050,7 +1050,7 @@
 
 @font-face {
     font-family: 'HakgyoansimGureumOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimGureumOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimGureumOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1058,7 +1058,7 @@
 
 @font-face {
     font-family: 'HakgyoansimJeomsimsiganOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimJeomsimsiganOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimJeomsimsiganOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1066,7 +1066,7 @@
 
 @font-face {
     font-family: 'HakgyoansimJiugaeOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimJiugaeOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimJiugaeOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1074,7 +1074,7 @@
 
 @font-face {
     font-family: 'HakgyoansimKkokkomaOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimKkokkomaOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimKkokkomaOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1082,7 +1082,7 @@
 
 @font-face {
     font-family: 'HakgyoansimKkwabaegiOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimKkwabaegiOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimKkwabaegiOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1090,7 +1090,7 @@
 
 @font-face {
     font-family: 'HakgyoansimKossuyeomOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimKossuyeomOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimKossuyeomOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1098,7 +1098,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMabeopsaOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMabeopsaOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMabeopsaOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1106,7 +1106,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMalgeunnalB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMalgeunnalB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMalgeunnalB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1114,7 +1114,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMalgeunnalM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMalgeunnalM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMalgeunnalM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1122,7 +1122,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMoheomgaOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMoheomgaOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMoheomgaOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1130,7 +1130,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMoheomgaOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMoheomgaOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMoheomgaOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1138,7 +1138,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMonggeulmonggeulOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMonggeulmonggeulOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMonggeulmonggeulOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1146,7 +1146,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMulgyeolOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMulgyeolOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMulgyeolOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1154,7 +1154,7 @@
 
 @font-face {
     font-family: 'HakgyoansimMulgyeolOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimMulgyeolOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimMulgyeolOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1162,7 +1162,7 @@
 
 @font-face {
     font-family: 'HakgyoansimNamuOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimNamuOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimNamuOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1170,7 +1170,7 @@
 
 @font-face {
     font-family: 'HakgyoansimNamuOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimNamuOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimNamuOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1178,7 +1178,7 @@
 
 @font-face {
     font-family: 'HakgyoansimRikodeoOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimRikodeoOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimRikodeoOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1186,7 +1186,7 @@
 
 @font-face {
     font-family: 'HakgyoansimSamulhamOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimSamulhamOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimSamulhamOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1194,7 +1194,7 @@
 
 @font-face {
     font-family: 'HakgyoansimSantteutbatangL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimSantteutbatangL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimSantteutbatangL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1202,7 +1202,7 @@
 
 @font-face {
     font-family: 'HakgyoansimSantteutbatangM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimSantteutbatangM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimSantteutbatangM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1210,7 +1210,7 @@
 
 @font-face {
     font-family: 'HakgyoansimSantteutdotumL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimSantteutdotumL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimSantteutdotumL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1218,7 +1218,7 @@
 
 @font-face {
     font-family: 'HakgyoansimSantteutdotumM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimSantteutdotumM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimSantteutdotumM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1226,7 +1226,7 @@
 
 @font-face {
     font-family: 'HakgyoansimSonagiOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimSonagiOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimSonagiOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1234,7 +1234,7 @@
 
 @font-face {
     font-family: 'HakgyoansimTtwimteulOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimTtwimteulOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimTtwimteulOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1242,7 +1242,7 @@
 
 @font-face {
     font-family: 'HakgyoansimTuhoOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimTuhoOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimTuhoOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1250,7 +1250,7 @@
 
 @font-face {
     font-family: 'HakgyoansimUndongjangOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimUndongjangOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimUndongjangOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1258,7 +1258,7 @@
 
 @font-face {
     font-family: 'HakgyoansimUsanOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimUsanOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimUsanOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1266,7 +1266,7 @@
 
 @font-face {
     font-family: 'HakgyoansimWoojuR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimWoojuR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimWoojuR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1274,7 +1274,7 @@
 
 @font-face {
     font-family: 'HakgyoansimYeohaengOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HakgyoansimYeohaengOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HakgyoansimYeohaengOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1282,7 +1282,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim BandalOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_BandalOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_BandalOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1290,7 +1290,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim BoardmarkerOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_BoardmarkerOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_BoardmarkerOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1298,7 +1298,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim ChaekgalpiOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_ChaekgalpiOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_ChaekgalpiOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1306,7 +1306,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim EohangkkumigiOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_EohangkkumigiOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_EohangkkumigiOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1314,7 +1314,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim GongryongalOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_GongryongalOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_GongryongalOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1322,7 +1322,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim JayeonOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_JayeonOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_JayeonOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1330,7 +1330,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim JayusiganOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_JayusiganOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_JayusiganOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1338,7 +1338,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim KidaripungseonOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_KidaripungseonOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_KidaripungseonOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1346,7 +1346,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim ManitoOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_ManitoOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_ManitoOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1354,7 +1354,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim MindeulleholssiOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_MindeulleholssiOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_MindeulleholssiOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1362,7 +1362,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim MondangbunfilOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_MondangbunfilOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_MondangbunfilOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1370,7 +1370,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim NalgaeOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_NalgaeOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_NalgaeOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1378,7 +1378,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim OcarinaOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_OcarinaOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_OcarinaOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1386,7 +1386,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim PosterOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_PosterOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_PosterOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1394,7 +1394,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim SaekyeonpilOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_SaekyeonpilOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_SaekyeonpilOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1402,7 +1402,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim SangjangOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_SangjangOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_SangjangOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1410,7 +1410,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim SiganpyoOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_SiganpyoOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_SiganpyoOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1418,7 +1418,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim SketchbookOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_SketchbookOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_SketchbookOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1426,7 +1426,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim SusukkangOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_SusukkangOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_SusukkangOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1434,7 +1434,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim TteokbokkiOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_TteokbokkiOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_TteokbokkiOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1442,7 +1442,7 @@
 
 @font-face {
     font-family: 'Hakgyoansim YieodalligiOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hakgyoansim_YieodalligiOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hakgyoansim_YieodalligiOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1450,7 +1450,7 @@
 
 @font-face {
     font-family: 'Hangeuljaemin6';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Hangeuljaemin6.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Hangeuljaemin6.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1458,7 +1458,7 @@
 
 @font-face {
     font-family: 'HiMelody Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/HiMelody-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/HiMelody-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1466,7 +1466,7 @@
 
 @font-face {
     font-family: 'I AM A PLAYER';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/I AM A PLAYER.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/I AM A PLAYER.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1474,7 +1474,7 @@
 
 @font-face {
     font-family: 'Interop Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1482,7 +1482,7 @@
 
 @font-face {
     font-family: 'Interop ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1490,7 +1490,7 @@
 
 @font-face {
     font-family: 'Interop ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1498,7 +1498,7 @@
 
 @font-face {
     font-family: 'Interop Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1506,7 +1506,7 @@
 
 @font-face {
     font-family: 'Interop Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1514,7 +1514,7 @@
 
 @font-face {
     font-family: 'Interop Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1522,7 +1522,7 @@
 
 @font-face {
     font-family: 'Interop SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1530,7 +1530,7 @@
 
 @font-face {
     font-family: 'Interop Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Interop-Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Interop-Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1538,7 +1538,7 @@
 
 @font-face {
     font-family: 'Jaemin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Jaemin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Jaemin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1546,7 +1546,7 @@
 
 @font-face {
     font-family: 'Jaemin3 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Jaemin3-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Jaemin3-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1554,7 +1554,7 @@
 
 @font-face {
     font-family: 'Jaemin v2';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Jaemin_v2.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Jaemin_v2.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1562,7 +1562,7 @@
 
 @font-face {
     font-family: 'J개구쟁이 Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J개구쟁이-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J개구쟁이-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1570,7 +1570,7 @@
 
 @font-face {
     font-family: 'J개구쟁이 Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J개구쟁이-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J개구쟁이-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1578,7 +1578,7 @@
 
 @font-face {
     font-family: 'J개구쟁이 Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J개구쟁이-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J개구쟁이-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1586,7 +1586,7 @@
 
 @font-face {
     font-family: 'J송명 Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J송명-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J송명-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1594,7 +1594,7 @@
 
 @font-face {
     font-family: 'J해바라기 Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J해바라기-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J해바라기-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1602,7 +1602,7 @@
 
 @font-face {
     font-family: 'J해바라기 Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J해바라기-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J해바라기-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1610,7 +1610,7 @@
 
 @font-face {
     font-family: 'J해바라기 Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/J해바라기-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/J해바라기-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1618,7 +1618,7 @@
 
 @font-face {
     font-family: 'KCC Ahnchangho';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Ahnchangho.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Ahnchangho.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1626,7 +1626,7 @@
 
 @font-face {
     font-family: 'KCC Ahnjunggeun';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Ahnjunggeun.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Ahnjunggeun.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1634,7 +1634,7 @@
 
 @font-face {
     font-family: 'KCC Chassam';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Chassam.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Chassam.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1642,7 +1642,7 @@
 
 @font-face {
     font-family: 'KCC Ganpan';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Ganpan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Ganpan.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1650,7 +1650,7 @@
 
 @font-face {
     font-family: 'KCC Hanbit';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Hanbit.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Hanbit.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1658,7 +1658,7 @@
 
 @font-face {
     font-family: 'KCC Imkwontaek';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Imkwontaek.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Imkwontaek.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1666,7 +1666,7 @@
 
 @font-face {
     font-family: 'KCC Jeongbeom';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Jeongbeom.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Jeongbeom.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1674,7 +1674,7 @@
 
 @font-face {
     font-family: 'KCC Kimhwanki';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Kimhwanki.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Kimhwanki.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1682,7 +1682,7 @@
 
 @font-face {
     font-family: 'KCC Murukmuruk';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Murukmuruk.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Murukmuruk.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1690,7 +1690,7 @@
 
 @font-face {
     font-family: 'KCC Sonkeechung';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC-Sonkeechung.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC-Sonkeechung.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1698,7 +1698,7 @@
 
 @font-face {
     font-family: 'KCCBangJeonghwan';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCCBangJeonghwan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCCBangJeonghwan.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1706,7 +1706,7 @@
 
 @font-face {
     font-family: 'KCCDodamdodam OTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCCDodamdodam_OTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCCDodamdodam_OTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1714,7 +1714,7 @@
 
 @font-face {
     font-family: 'KCCHyerim';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCCHyerim.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCCHyerim.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1722,7 +1722,7 @@
 
 @font-face {
     font-family: 'KCC김훈체';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC김훈체.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC김훈체.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1730,7 +1730,7 @@
 
 @font-face {
     font-family: 'KCC은영체';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KCC은영체.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KCC은영체.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1738,7 +1738,7 @@
 
 @font-face {
     font-family: 'KERISBAEUM B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISBAEUM_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISBAEUM_B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1746,7 +1746,7 @@
 
 @font-face {
     font-family: 'KERISBAEUM EB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISBAEUM_EB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISBAEUM_EB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1754,7 +1754,7 @@
 
 @font-face {
     font-family: 'KERISBAEUM L';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISBAEUM_L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISBAEUM_L.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1762,7 +1762,7 @@
 
 @font-face {
     font-family: 'KERISBAEUM R';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISBAEUM_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISBAEUM_R.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1770,7 +1770,7 @@
 
 @font-face {
     font-family: 'KERISKEDU B';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISKEDU_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISKEDU_B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1778,7 +1778,7 @@
 
 @font-face {
     font-family: 'KERISKEDU Line';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISKEDU_Line.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISKEDU_Line.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1786,7 +1786,7 @@
 
 @font-face {
     font-family: 'KERISKEDU R';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KERISKEDU_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KERISKEDU_R.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1794,7 +1794,7 @@
 
 @font-face {
     font-family: 'KakaoBigSans Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KakaoBigSans-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KakaoBigSans-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1802,7 +1802,7 @@
 
 @font-face {
     font-family: 'KakaoBigSans ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KakaoBigSans-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KakaoBigSans-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1810,7 +1810,7 @@
 
 @font-face {
     font-family: 'KakaoBigSans Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KakaoBigSans-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KakaoBigSans-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1818,7 +1818,7 @@
 
 @font-face {
     font-family: 'KakaoSmallSans Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KakaoSmallSans-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KakaoSmallSans-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1826,7 +1826,7 @@
 
 @font-face {
     font-family: 'KakaoSmallSans Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KakaoSmallSans-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KakaoSmallSans-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1834,7 +1834,7 @@
 
 @font-face {
     font-family: 'KakaoSmallSans Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KakaoSmallSans-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KakaoSmallSans-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1842,7 +1842,7 @@
 
 @font-face {
     font-family: 'KimjungchulGothic Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulGothic-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulGothic-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1850,7 +1850,7 @@
 
 @font-face {
     font-family: 'KimjungchulGothic Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulGothic-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulGothic-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1858,7 +1858,7 @@
 
 @font-face {
     font-family: 'KimjungchulGothic Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulGothic-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulGothic-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1866,7 +1866,7 @@
 
 @font-face {
     font-family: 'KimjungchulMyungjo Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulMyungjo-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulMyungjo-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1874,7 +1874,7 @@
 
 @font-face {
     font-family: 'KimjungchulMyungjo Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulMyungjo-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulMyungjo-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1882,7 +1882,7 @@
 
 @font-face {
     font-family: 'KimjungchulMyungjo Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulMyungjo-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulMyungjo-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1890,7 +1890,7 @@
 
 @font-face {
     font-family: 'KimjungchulScript Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulScript-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulScript-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1898,7 +1898,7 @@
 
 @font-face {
     font-family: 'KimjungchulScript Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulScript-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulScript-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1906,7 +1906,7 @@
 
 @font-face {
     font-family: 'KimjungchulScript Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/KimjungchulScript-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/KimjungchulScript-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1914,7 +1914,7 @@
 
 @font-face {
     font-family: 'MinSans Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1922,7 +1922,7 @@
 
 @font-face {
     font-family: 'MinSans Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1930,7 +1930,7 @@
 
 @font-face {
     font-family: 'MinSans ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1938,7 +1938,7 @@
 
 @font-face {
     font-family: 'MinSans ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1946,7 +1946,7 @@
 
 @font-face {
     font-family: 'MinSans Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1954,7 +1954,7 @@
 
 @font-face {
     font-family: 'MinSans Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1962,7 +1962,7 @@
 
 @font-face {
     font-family: 'MinSans Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1970,7 +1970,7 @@
 
 @font-face {
     font-family: 'MinSans SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1978,7 +1978,7 @@
 
 @font-face {
     font-family: 'MinSans Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSans-Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSans-Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1986,7 +1986,7 @@
 
 @font-face {
     font-family: 'MinSansVF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MinSansVF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MinSansVF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -1994,7 +1994,7 @@
 
 @font-face {
     font-family: 'MoiraiOne Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/MoiraiOne-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/MoiraiOne-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2002,7 +2002,7 @@
 
 @font-face {
     font-family: 'NanumBarunGothic YetHangul';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunGothic-YetHangul.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunGothic-YetHangul.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2010,7 +2010,7 @@
 
 @font-face {
     font-family: 'NanumBarunGothic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunGothic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunGothic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2018,7 +2018,7 @@
 
 @font-face {
     font-family: 'NanumBarunGothicBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunGothicBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunGothicBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2026,7 +2026,7 @@
 
 @font-face {
     font-family: 'NanumBarunGothicLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunGothicLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunGothicLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2034,7 +2034,7 @@
 
 @font-face {
     font-family: 'NanumBarunGothicUltraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunGothicUltraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunGothicUltraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2042,7 +2042,7 @@
 
 @font-face {
     font-family: 'NanumBarunpenB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunpenB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunpenB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2050,7 +2050,7 @@
 
 @font-face {
     font-family: 'NanumBarunpenR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBarunpenR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBarunpenR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2058,7 +2058,7 @@
 
 @font-face {
     font-family: 'NanumBrush';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumBrush.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumBrush.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2066,7 +2066,7 @@
 
 @font-face {
     font-family: 'NanumGothic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2074,7 +2074,7 @@
 
 @font-face {
     font-family: 'NanumGothicBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothicBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothicBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2082,7 +2082,7 @@
 
 @font-face {
     font-family: 'NanumGothicEco';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothicEco.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothicEco.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2090,7 +2090,7 @@
 
 @font-face {
     font-family: 'NanumGothicEcoBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothicEcoBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothicEcoBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2098,7 +2098,7 @@
 
 @font-face {
     font-family: 'NanumGothicEcoExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothicEcoExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothicEcoExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2106,7 +2106,7 @@
 
 @font-face {
     font-family: 'NanumGothicExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothicExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothicExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2114,7 +2114,7 @@
 
 @font-face {
     font-family: 'NanumGothicLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumGothicLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumGothicLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2122,7 +2122,7 @@
 
 @font-face {
     font-family: 'NanumHumanBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumHumanBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumHumanBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2130,7 +2130,7 @@
 
 @font-face {
     font-family: 'NanumHumanEB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumHumanEB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumHumanEB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2138,7 +2138,7 @@
 
 @font-face {
     font-family: 'NanumHumanEL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumHumanEL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumHumanEL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2146,7 +2146,7 @@
 
 @font-face {
     font-family: 'NanumHumanHeavy';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumHumanHeavy.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumHumanHeavy.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2154,7 +2154,7 @@
 
 @font-face {
     font-family: 'NanumHumanLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumHumanLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumHumanLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2162,7 +2162,7 @@
 
 @font-face {
     font-family: 'NanumHumanRegular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumHumanRegular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumHumanRegular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2170,7 +2170,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjo YetHangul';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjo-YetHangul.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjo-YetHangul.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2178,7 +2178,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjo';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjo.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2186,7 +2186,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjoBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjoBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjoBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2194,7 +2194,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjoEco';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjoEco.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjoEco.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2202,7 +2202,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjoEcoBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjoEcoBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjoEcoBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2210,7 +2210,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjoEcoExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjoEcoExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjoEcoExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2218,7 +2218,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjoExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumMyeongjoExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumMyeongjoExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2226,7 +2226,7 @@
 
 @font-face {
     font-family: 'NanumPen';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumPen.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumPen.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2234,7 +2234,7 @@
 
 @font-face {
     font-family: 'NanumSquareB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2242,7 +2242,7 @@
 
 @font-face {
     font-family: 'NanumSquareEB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareEB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareEB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2250,7 +2250,7 @@
 
 @font-face {
     font-family: 'NanumSquareL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2258,7 +2258,7 @@
 
 @font-face {
     font-family: 'NanumSquareOTF acB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareOTF_acB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareOTF_acB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2266,7 +2266,7 @@
 
 @font-face {
     font-family: 'NanumSquareOTF acEB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareOTF_acEB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareOTF_acEB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2274,7 +2274,7 @@
 
 @font-face {
     font-family: 'NanumSquareOTF acL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareOTF_acL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareOTF_acL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2282,7 +2282,7 @@
 
 @font-face {
     font-family: 'NanumSquareOTF acR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareOTF_acR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareOTF_acR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2290,7 +2290,7 @@
 
 @font-face {
     font-family: 'NanumSquareR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2298,7 +2298,7 @@
 
 @font-face {
     font-family: 'NanumSquareRoundOTFB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareRoundOTFB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareRoundOTFB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2306,7 +2306,7 @@
 
 @font-face {
     font-family: 'NanumSquareRoundOTFEB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareRoundOTFEB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareRoundOTFEB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2314,7 +2314,7 @@
 
 @font-face {
     font-family: 'NanumSquareRoundOTFL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareRoundOTFL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareRoundOTFL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2322,7 +2322,7 @@
 
 @font-face {
     font-family: 'NanumSquareRoundOTFR';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NanumSquareRoundOTFR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NanumSquareRoundOTFR.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2330,7 +2330,7 @@
 
 @font-face {
     font-family: 'NoonnuBasicGothicRegular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NoonnuBasicGothicRegular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NoonnuBasicGothicRegular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2338,7 +2338,7 @@
 
 @font-face {
     font-family: 'NotoSansKR Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2346,7 +2346,7 @@
 
 @font-face {
     font-family: 'NotoSansKR Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2354,7 +2354,7 @@
 
 @font-face {
     font-family: 'NotoSansKR ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2362,7 +2362,7 @@
 
 @font-face {
     font-family: 'NotoSansKR ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2370,7 +2370,7 @@
 
 @font-face {
     font-family: 'NotoSansKR Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2378,7 +2378,7 @@
 
 @font-face {
     font-family: 'NotoSansKR Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2386,7 +2386,7 @@
 
 @font-face {
     font-family: 'NotoSansKR Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2394,7 +2394,7 @@
 
 @font-face {
     font-family: 'NotoSansKR SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2402,7 +2402,7 @@
 
 @font-face {
     font-family: 'NotoSansKR Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSansKR-Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSansKR-Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2410,7 +2410,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2418,7 +2418,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2426,7 +2426,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2434,7 +2434,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2442,7 +2442,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2450,7 +2450,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2458,7 +2458,7 @@
 
 @font-face {
     font-family: 'NotoSerifKR SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/NotoSerifKR-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/NotoSerifKR-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2466,7 +2466,7 @@
 
 @font-face {
     font-family: 'Orbit Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Orbit-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Orbit-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2474,7 +2474,7 @@
 
 @font-face {
     font-family: 'Ownglyph 2022 UWY Da Gyeong Rg';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Ownglyph_2022_UWY_Da_Gyeong-Rg.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Ownglyph_2022_UWY_Da_Gyeong-Rg.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2482,7 +2482,7 @@
 
 @font-face {
     font-family: 'Ownglyph 2022 UWY Jae Seon Rg';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Ownglyph_2022_UWY_Jae_Seon-Rg.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Ownglyph_2022_UWY_Jae_Seon-Rg.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2490,7 +2490,7 @@
 
 @font-face {
     font-family: 'Ownglyph 2022 UWY Joo Bin Rg';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Ownglyph_2022_UWY_Joo_Bin-Rg.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Ownglyph_2022_UWY_Joo_Bin-Rg.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2498,7 +2498,7 @@
 
 @font-face {
     font-family: 'Ownglyph 2022 UWY Si Woo Rg';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Ownglyph_2022_UWY_Si_Woo-Rg.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Ownglyph_2022_UWY_Si_Woo-Rg.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2506,7 +2506,7 @@
 
 @font-face {
     font-family: 'Ownglyph 2022 UWY Yoon Yeong Rg';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Ownglyph_2022_UWY_Yoon_Yeong-Rg.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Ownglyph_2022_UWY_Yoon_Yeong-Rg.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2514,7 +2514,7 @@
 
 @font-face {
     font-family: 'Pak Yong jun';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Pak_Yong_jun.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Pak_Yong_jun.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2522,7 +2522,7 @@
 
 @font-face {
     font-family: 'Paperlogy 1Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-1Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-1Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2530,7 +2530,7 @@
 
 @font-face {
     font-family: 'Paperlogy 2ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-2ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-2ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2538,7 +2538,7 @@
 
 @font-face {
     font-family: 'Paperlogy 3Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-3Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-3Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2546,7 +2546,7 @@
 
 @font-face {
     font-family: 'Paperlogy 4Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-4Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-4Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2554,7 +2554,7 @@
 
 @font-face {
     font-family: 'Paperlogy 5Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-5Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-5Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2562,7 +2562,7 @@
 
 @font-face {
     font-family: 'Paperlogy 6SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-6SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-6SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2570,7 +2570,7 @@
 
 @font-face {
     font-family: 'Paperlogy 7Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-7Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-7Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2578,7 +2578,7 @@
 
 @font-face {
     font-family: 'Paperlogy 8ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-8ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-8ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2586,7 +2586,7 @@
 
 @font-face {
     font-family: 'Paperlogy 9Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Paperlogy-9Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Paperlogy-9Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2594,7 +2594,7 @@
 
 @font-face {
     font-family: 'PyeojinGothic Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/PyeojinGothic-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/PyeojinGothic-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2602,7 +2602,7 @@
 
 @font-face {
     font-family: 'PyeojinGothic Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/PyeojinGothic-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/PyeojinGothic-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2610,7 +2610,7 @@
 
 @font-face {
     font-family: 'PyeojinGothic Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/PyeojinGothic-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/PyeojinGothic-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2618,7 +2618,7 @@
 
 @font-face {
     font-family: 'RIDIBatang';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/RIDIBatang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/RIDIBatang.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2626,7 +2626,7 @@
 
 @font-face {
     font-family: 'SLEIGothicOTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SLEIGothicOTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SLEIGothicOTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2634,7 +2634,7 @@
 
 @font-face {
     font-family: 'STUNNINGOTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/STUNNINGOTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/STUNNINGOTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2642,7 +2642,7 @@
 
 @font-face {
     font-family: 'SeguSegu Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SeguSegu-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SeguSegu-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2650,7 +2650,7 @@
 
 @font-face {
     font-family: 'Spoqa Han Sans Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Spoqa Han Sans Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Spoqa Han Sans Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2658,7 +2658,7 @@
 
 @font-face {
     font-family: 'Spoqa Han Sans Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Spoqa Han Sans Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Spoqa Han Sans Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2666,7 +2666,7 @@
 
 @font-face {
     font-family: 'Spoqa Han Sans Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Spoqa Han Sans Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Spoqa Han Sans Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2674,7 +2674,7 @@
 
 @font-face {
     font-family: 'Spoqa Han Sans Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Spoqa Han Sans Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Spoqa Han Sans Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2682,7 +2682,7 @@
 
 @font-face {
     font-family: 'SpoqaHanSansNeo Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SpoqaHanSansNeo-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SpoqaHanSansNeo-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2690,7 +2690,7 @@
 
 @font-face {
     font-family: 'SpoqaHanSansNeo Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SpoqaHanSansNeo-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SpoqaHanSansNeo-Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2698,7 +2698,7 @@
 
 @font-face {
     font-family: 'SpoqaHanSansNeo Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SpoqaHanSansNeo-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SpoqaHanSansNeo-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2706,7 +2706,7 @@
 
 @font-face {
     font-family: 'SpoqaHanSansNeo Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SpoqaHanSansNeo-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SpoqaHanSansNeo-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2714,7 +2714,7 @@
 
 @font-face {
     font-family: 'SpoqaHanSansNeo Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/SpoqaHanSansNeo-Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/SpoqaHanSansNeo-Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2722,7 +2722,7 @@
 
 @font-face {
     font-family: 'Tlab신영복체';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/Tlab신영복체.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/Tlab신영복체.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2730,7 +2730,7 @@
 
 @font-face {
     font-family: 'WantedSans Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2738,7 +2738,7 @@
 
 @font-face {
     font-family: 'WantedSans Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2746,7 +2746,7 @@
 
 @font-face {
     font-family: 'WantedSans ExtraBlack';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-ExtraBlack.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-ExtraBlack.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2754,7 +2754,7 @@
 
 @font-face {
     font-family: 'WantedSans ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2762,7 +2762,7 @@
 
 @font-face {
     font-family: 'WantedSans Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2770,7 +2770,7 @@
 
 @font-face {
     font-family: 'WantedSans Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2778,7 +2778,7 @@
 
 @font-face {
     font-family: 'WantedSans SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSans-SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSans-SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2786,7 +2786,7 @@
 
 @font-face {
     font-family: 'WantedSansVariable';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/WantedSansVariable.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/WantedSansVariable.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2794,7 +2794,7 @@
 
 @font-face {
     font-family: 'gabia bombaram';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/gabia_bombaram.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/gabia_bombaram.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2802,7 +2802,7 @@
 
 @font-face {
     font-family: 'gabia napjakBlock';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/gabia_napjakBlock.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/gabia_napjakBlock.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2810,7 +2810,7 @@
 
 @font-face {
     font-family: 'gabia solmee';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/gabia_solmee.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/gabia_solmee.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2818,7 +2818,7 @@
 
 @font-face {
     font-family: 'goorm sans bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/goorm-sans-bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/goorm-sans-bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2826,7 +2826,7 @@
 
 @font-face {
     font-family: 'goorm sans medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/goorm-sans-medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/goorm-sans-medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2834,7 +2834,7 @@
 
 @font-face {
     font-family: 'goorm sans regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/goorm-sans-regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/goorm-sans-regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2842,7 +2842,7 @@
 
 @font-face {
     font-family: 'goorm Sans Code 400';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/goorm_Sans_Code_400.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/goorm_Sans_Code_400.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2850,7 +2850,7 @@
 
 @font-face {
     font-family: 'intelone mono font family bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2858,7 +2858,7 @@
 
 @font-face {
     font-family: 'intelone mono font family bolditalic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-bolditalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-bolditalic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2866,7 +2866,7 @@
 
 @font-face {
     font-family: 'intelone mono font family italic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-italic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-italic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2874,7 +2874,7 @@
 
 @font-face {
     font-family: 'intelone mono font family light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2882,7 +2882,7 @@
 
 @font-face {
     font-family: 'intelone mono font family lightitalic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-lightitalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-lightitalic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2890,7 +2890,7 @@
 
 @font-face {
     font-family: 'intelone mono font family medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2898,7 +2898,7 @@
 
 @font-face {
     font-family: 'intelone mono font family mediumitalic';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-mediumitalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-mediumitalic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2906,7 +2906,7 @@
 
 @font-face {
     font-family: 'intelone mono font family regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/intelone-mono-font-family-regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/intelone-mono-font-family-regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2914,7 +2914,7 @@
 
 @font-face {
     font-family: 'netmarbleB';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/netmarbleB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/netmarbleB.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2922,7 +2922,7 @@
 
 @font-face {
     font-family: 'netmarbleL';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/netmarbleL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/netmarbleL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2930,7 +2930,7 @@
 
 @font-face {
     font-family: 'netmarbleM';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/netmarbleM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/netmarbleM.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2938,7 +2938,7 @@
 
 @font-face {
     font-family: '그리운김정원체';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/그리운김정원체.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/그리운김정원체.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2946,7 +2946,7 @@
 
 @font-face {
     font-family: '북엔드 바탕OTF Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/북엔드 바탕OTF Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/북엔드 바탕OTF Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2954,7 +2954,7 @@
 
 @font-face {
     font-family: '북엔드 바탕OTF SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/북엔드 바탕OTF SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/북엔드 바탕OTF SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2962,7 +2962,7 @@
 
 @font-face {
     font-family: '삼육대체OTF Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/삼육대체OTF Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/삼육대체OTF Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2970,7 +2970,7 @@
 
 @font-face {
     font-family: '삼육대체OTF Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/삼육대체OTF Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/삼육대체OTF Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2978,7 +2978,7 @@
 
 @font-face {
     font-family: '솔뫼 김대건OTF Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/솔뫼 김대건OTF Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/솔뫼 김대건OTF Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2986,7 +2986,7 @@
 
 @font-face {
     font-family: '솔뫼 김대건OTF Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/솔뫼 김대건OTF Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/솔뫼 김대건OTF Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -2994,7 +2994,7 @@
 
 @font-face {
     font-family: '야놀자 야체 OTF Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/야놀자 야체 OTF Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/야놀자 야체 OTF Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3002,7 +3002,7 @@
 
 @font-face {
     font-family: '야놀자 야체 OTF Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/야놀자 야체 OTF Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/야놀자 야체 OTF Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3010,7 +3010,7 @@
 
 @font-face {
     font-family: '에이투지체 1Thin';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-1Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-1Thin.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3018,7 +3018,7 @@
 
 @font-face {
     font-family: '에이투지체 2ExtraLight';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-2ExtraLight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-2ExtraLight.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3026,7 +3026,7 @@
 
 @font-face {
     font-family: '에이투지체 3Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-3Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-3Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3034,7 +3034,7 @@
 
 @font-face {
     font-family: '에이투지체 4Regular';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-4Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-4Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3042,7 +3042,7 @@
 
 @font-face {
     font-family: '에이투지체 5Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-5Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-5Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3050,7 +3050,7 @@
 
 @font-face {
     font-family: '에이투지체 6SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-6SemiBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-6SemiBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3058,7 +3058,7 @@
 
 @font-face {
     font-family: '에이투지체 7Bold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-7Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-7Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3066,7 +3066,7 @@
 
 @font-face {
     font-family: '에이투지체 8ExtraBold';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-8ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-8ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3074,7 +3074,7 @@
 
 @font-face {
     font-family: '에이투지체 9Black';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/에이투지체-9Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/에이투지체-9Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3082,7 +3082,7 @@
 
 @font-face {
     font-family: '유앤피플 고딕 KS OTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/유앤피플 고딕 KS OTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/유앤피플 고딕 KS OTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3090,7 +3090,7 @@
 
 @font-face {
     font-family: '유앤피플 고딕 UNI OTF';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/유앤피플 고딕 UNI OTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/유앤피플 고딕 UNI OTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3098,7 +3098,7 @@
 
 @font-face {
     font-family: '중나좋체 OTF Light';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/중나좋체 OTF Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/중나좋체 OTF Light.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -3106,7 +3106,7 @@
 
 @font-face {
     font-family: '중나좋체 OTF Medium';
-    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/web_fonts/중나좋체 OTF Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@KERIS.v1.0/web_fonts/중나좋체 OTF Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
