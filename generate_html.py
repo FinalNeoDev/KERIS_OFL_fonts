@@ -36,7 +36,6 @@ def generate_html():
         .preview-{font_family} {{ font-family: '{font_family}', sans-serif; }}
         """)
 
-        # 기본 미리보기 텍스트 변경 적용
         html_font_cards.append(f"""
         <div class="font-card">
             <div class="font-info">
@@ -74,6 +73,10 @@ def generate_html():
         .project-links ul {{ margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6; }}
         .project-links a {{ color: #0969da; text-decoration: none; }}
         .project-links a:hover {{ text-decoration: underline; }}
+        
+        /* "더 알아보기" 강조 링크 스타일 */
+        .more-link {{ display: inline-block; margin-bottom: 15px; font-weight: 600; color: #2da44e; text-decoration: none; font-size: 15px; }}
+        .more-link:hover {{ text-decoration: underline; color: #2c974b; }}
 
         /* 컨트롤 및 폰트 리스트 스타일 */
         .controls {{ display: flex; gap: 15px; margin-bottom: 30px; flex-wrap: wrap; }}
@@ -108,7 +111,8 @@ def generate_html():
         </div>
 
         <div class="project-links">
-            <h3>📌 FinalNeoDev.github.io 소개</h3>
+            <h3>📌 FinalNeoDev 소개</h3>
+            <a href="https://finalneodev.github.io" target="_blank" class="more-link">🚀 FinalNeoDev 더 알아보기</a>
             <ul>
                 <li><a href="https://finalneodev.github.io/Korea_Holidays/" target="_blank">공휴일 & 영업일 계산기 (Web UI)</a></li>
                 <li><a href="https://finalneodev.github.io/Korea_Holidays/overtime.html" target="_blank">야근 및 휴일 가산수당 계산기 (Web UI)</a></li>
