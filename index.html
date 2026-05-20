@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KERIS OFL 폰트 미리보기 및 다운로드</title>
+    <style>
+        /* 기본 스타일 셋업 */
+        body { font-family: sans-serif; padding: 20px; background-color: #f6f8fa; color: #24292f; margin: 0; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 40px; }
+        
+        /* 컨트롤 패널 (검색 및 텍스트 입력) */
+        .controls { display: flex; gap: 15px; margin-bottom: 30px; flex-wrap: wrap; }
+        .controls input { 
+            padding: 15px; 
+            font-size: 16px; 
+            border: 1px solid #d0d7de; 
+            border-radius: 6px; 
+            box-shadow: inset 0 1px 2px rgba(0,0,0,0.075);
+        }
+        #previewInput { flex: 2; min-width: 300px; } /* 멘트 입력창 */
+        #searchInput { flex: 1; min-width: 200px; }  /* 폰트 이름 검색창 */
+
+        /* 폰트 적용 (@font-face) - 실제 폰트 경로로 수정 필요 */
+        @font-face { font-family: 'FontSample1'; src: url('./fonts/SampleFont1.ttf') format('truetype'); }
+        @font-face { font-family: 'FontSample2'; src: url('./fonts/SampleFont2.ttf') format('truetype'); }
+
+        /* 폰트 리스트 카드 UI */
+        .font-card { 
+            background: #ffffff; 
+            padding: 25px; 
+            margin-bottom: 20px; 
+            border-radius: 8px; 
+            border: 1px solid #d0d7de;
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+        }
+        .font-info { flex: 1; overflow: hidden; }
+        .font-name { font-size: 14px; color: #57606a; margin-bottom: 15px; font-weight: 600; }
+        .font-preview { font-size: 36px; word-break: break-all; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        
+        /* 다운로드 버튼 */
+        .download-btn { 
+            background-color: #2da44e; 
+            color: #ffffff; 
+            text-decoration: none; 
+            padding: 10px 20px; 
+            border-radius: 6px; 
+            font-weight: 600; 
+            font-size: 14px;
+            margin-left: 20px;
+            white-space: nowrap;
+        }
+        .download-btn:hover { background-color: #2c974b; }
+
+        /* 개별 폰트 클래스 */
+        .preview-font1 { font-family: 'FontSample1', sans-serif; }
+        .preview-font2 { font-family: 'FontSample2', sans-serif; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>KERIS OFL Fonts 미리보기</h1>
+            <p>원하는 문구를 입력하여 폰트를 확인하고, 필요한 폰트를 다운로드하세요.</p>
+        </div>
+
+        <div class="controls">
+            <input type="text" id="previewInput" value="다람쥐 헌 쳇바퀴에 타고파. The quick brown fox." placeholder="미리보기 텍스트를 입력하세요">
+            <input type="text" id="searchInput" placeholder="폰트 이름 검색 (예: 돋움)">
+        </div>
+
+        <div id="fontList">
+            <!-- 폰트 카드 1 -->
+            <div class="font-card">
+                <div class="font-info">
+                    <div class="font-name">샘플 폰트 1 (Sample Font 1)</div>
+                    <div class="font-preview preview-font1" data-preview>다람쥐 헌 쳇바퀴에 타고파. The quick brown fox.</div>
+                </div>
+                <!-- download 속성이 있으면 클릭 시 파일이 즉시 다운로드 됨 -->
+                <a href="./fonts/SampleFont1.ttf" download class="download-btn">다운로드</a>
+            </div>
+
+            <!-- 폰트 카드 2 -->
+            <div class="font-card">
+                <div class="font-info">
+                    <div class="font-name">샘플 폰트 2 (Sample Font 2)</div>
+                    <div class="font-preview preview-font2" data-preview>다람쥐 헌 쳇바퀴에 타고파. The quick brown fox.</div>
+                </div>
+                <a href="./fonts/SampleFont2.ttf" download class="download-btn">다운로드</a>
+            </div>
+            
+            <!-- 추가 폰트들은 이 형식을 복사해서 사용하시면 됩니다 -->
+        </div>
+    </div>
+
+    <script>
+        // 1. 커스텀 텍스트 실시간 반영
+        const previewInput = document.getElementById('previewInput');
+        const previewElements = document.querySelectorAll('[data-preview]');
+
+        previewInput.addEventListener('input', function() {
+            const text = this.value || '미리보기를 위한 텍스트입니다.';
+            previewElements.forEach(el => { el.textContent = text; });
+        });
+
+        // 2. 폰트 이름 검색 기능
+        const searchInput = document.getElementById('searchInput');
+        const fontCards = document.querySelectorAll('.font-card');
+
+        searchInput.addEventListener('input', function() {
+            const keyword = this.value.toLowerCase();
+            fontCards.forEach(card => {
+                const fontName = card.querySelector('.font-name').textContent.toLowerCase();
+                // 검색어가 포함되어 있으면 표시, 아니면 숨김
+                card.style.display = fontName.includes(keyword) ? 'flex' : 'none';
+            });
+        });
+    </script>
+</body>
+</html>
