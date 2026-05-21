@@ -20,7 +20,6 @@ def generate_html():
         print(f"경고: '{FONT_DIR}' 폴더에 폰트 파일이 없습니다.")
         return
 
-    css_font_faces = []
     html_font_cards = []
 
     for i, font_path in enumerate(font_files):
@@ -28,21 +27,16 @@ def generate_html():
         font_name = font_path.stem  
         font_family = f"Font_{i}"   
         
-        css_font_faces.append(f"""
-        @font-face {{
-            font-family: '{font_family}';
-            src: url('./{FONT_DIR}/{font_filename}');
-        }}
-        .preview-{font_family} {{ font-family: '{font_family}', sans-serif; }}
-        """)
+        # GitHub Repo 기반 jsDelivr CDN 주소 (다운로드 속도 최적화)
+        cdn_download_url = f"https://cdn.jsdelivr.net/gh/FinalNeoDev/KERIS_OFL_fonts@main/{FONT_DIR}/{font_filename}"
 
         html_font_cards.append(f"""
         <div class="font-card">
             <div class="font-info">
                 <div class="font-name">{font_name}</div>
-                <div class="font-preview preview-{font_family}" data-preview>가나다라마바사아자차카타파하01234567890</div>
+                <div class="font-preview" data-font-family="{font_family}" data-font-url="./{FONT_DIR}/{font_filename}" data-preview>가나다라마바사아자차카타파하01234567890</div>
             </div>
-            <a href="./{FONT_DIR}/{font_filename}" download class="download-btn">다운로드</a>
+            <a href="{cdn_download_url}" class="download-btn">빠른 다운로드</a>
         </div>
         """)
 
@@ -57,7 +51,6 @@ def generate_html():
         body {{ font-family: sans-serif; padding: 20px; background-color: #f6f8fa; color: #24292f; margin: 0; }}
         .container {{ max-width: 1000px; margin: 0 auto; }}
         
-        /* 헤더 및 안내문구 스타일 */
         .header {{ text-align: center; margin-bottom: 20px; }}
         .header h1 {{ margin-bottom: 5px; }}
         .header h2 {{ font-size: 20px; color: #57606a; margin-top: 0; margin-bottom: 20px; font-weight: normal; }}
@@ -67,30 +60,28 @@ def generate_html():
         .notice-box p:last-child {{ margin-bottom: 0; }}
         .notice-box a {{ color: #0969da; text-decoration: underline; }}
         
-        /* 프로젝트 링크 박스 스타일 */
         .project-links {{ background: #ffffff; padding: 15px 20px; border-radius: 8px; border: 1px solid #d0d7de; margin-bottom: 30px; text-align: left; }}
         .project-links h3 {{ margin-top: 0; font-size: 16px; color: #24292f; margin-bottom: 10px; }}
         .project-links ul {{ margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6; }}
         .project-links a {{ color: #0969da; text-decoration: none; }}
         .project-links a:hover {{ text-decoration: underline; }}
         
-        /* "더 알아보기" 강조 링크 스타일 */
         .more-link {{ display: inline-block; margin-bottom: 15px; font-weight: 600; color: #2da44e; text-decoration: none; font-size: 15px; }}
         .more-link:hover {{ text-decoration: underline; color: #2c974b; }}
 
-        /* 컨트롤 및 폰트 리스트 스타일 */
         .controls {{ display: flex; gap: 15px; margin-bottom: 30px; flex-wrap: wrap; }}
         .controls input {{ padding: 15px; font-size: 16px; border: 1px solid #d0d7de; border-radius: 6px; box-shadow: inset 0 1px 2px rgba(0,0,0,0.075); }}
         #previewInput {{ flex: 2; min-width: 300px; }}
         #searchInput {{ flex: 1; min-width: 200px; }}
         
-        /* 자동 생성된 폰트 CSS */
-        {''.join(css_font_faces)}
+        /* 로딩 중일 때 부드러운 전환 효과 */
+        .font-preview {{ font-size: 36px; word-break: break-all; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.2; transition: opacity 0.3s ease; }}
+        .font-preview.loading {{ opacity: 0.3; }}
 
         .font-card {{ background: #ffffff; padding: 25px; margin-bottom: 20px; border-radius: 8px; border: 1px solid #d0d7de; display: flex; justify-content: space-between; align-items: center; }}
         .font-info {{ flex: 1; overflow: hidden; }}
         .font-name {{ font-size: 14px; color: #57606a; margin-bottom: 15px; font-weight: 600; }}
-        .font-preview {{ font-size: 36px; word-break: break-all; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.2; }}
+        
         .download-btn {{ background-color: #2da44e; color: #ffffff; text-decoration: none; padding: 10px 20px; border-radius: 6px; font-weight: 600; font-size: 14px; margin-left: 20px; white-space: nowrap; transition: background-color 0.2s; }}
         .download-btn:hover {{ background-color: #2c974b; }}
     </style>
@@ -130,6 +121,7 @@ def generate_html():
     </div>
 
     <script>
+        // 1. 텍스트 실시간 변경 기능
         const previewInput = document.getElementById('previewInput');
         const previewElements = document.querySelectorAll('[data-preview]');
 
@@ -138,6 +130,7 @@ def generate_html():
             previewElements.forEach(el => {{ el.textContent = text; }});
         }});
 
+        // 2. 검색 기능
         const searchInput = document.getElementById('searchInput');
         const fontCards = document.querySelectorAll('.font-card');
 
@@ -148,6 +141,44 @@ def generate_html():
                 card.style.display = fontName.includes(keyword) ? 'flex' : 'none';
             }});
         }});
+
+        // 3. 지연 로딩 (Intersection Observer) 기능
+        const observerOptions = {{
+            root: null,
+            rootMargin: '200px', // 화면에 나타나기 200px 전부터 미리 로딩 시작
+            threshold: 0
+        }};
+
+        const fontObserver = new IntersectionObserver((entries, observer) => {{
+            entries.forEach(entry => {{
+                if (entry.isIntersecting) {{
+                    const previewEl = entry.target.querySelector('.font-preview');
+                    const fontFamily = previewEl.getAttribute('data-font-family');
+                    const fontUrl = previewEl.getAttribute('data-font-url');
+
+                    // 이미 로딩된 폰트인지 확인
+                    if (!document.getElementById('style-' + fontFamily)) {{
+                        const style = document.createElement('style');
+                        style.id = 'style-' + fontFamily;
+                        style.innerHTML = `
+                            @font-face {{
+                                font-family: '${{fontFamily}}';
+                                src: url('${{fontUrl}}');
+                                font-display: swap; 
+                            }}
+                            .applied-${{fontFamily}} {{ font-family: '${{fontFamily}}', sans-serif; }}
+                        `;
+                        document.head.appendChild(style);
+                        
+                        previewEl.classList.add('applied-' + fontFamily);
+                    }}
+                    
+                    observer.unobserve(entry.target);
+                }}
+            }});
+        }}, observerOptions);
+
+        fontCards.forEach(card => fontObserver.observe(card));
     </script>
 </body>
 </html>"""
@@ -155,7 +186,7 @@ def generate_html():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(html_content)
     
-    print(f"✅ 성공: {len(font_files)}개의 폰트가 적용된 '{OUTPUT_FILE}' 파일이 업데이트되었습니다.")
+    print(f"✅ 성공: {len(font_files)}개의 폰트가 적용된 (CDN 고속 다운로드 적용) '{OUTPUT_FILE}' 파일이 업데이트되었습니다.")
 
 if __name__ == '__main__':
     generate_html()
